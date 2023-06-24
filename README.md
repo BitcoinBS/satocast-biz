@@ -1,2 +1,8 @@
 # Dca-game
-This is the home for our project
+Our Bitcoin DCA game
+
+Domain - bitcoinbs.com
+Environments
+dev.bitcoinbs.com
+stage.bitcoinbs.com
+www.bitcoinbs.com
